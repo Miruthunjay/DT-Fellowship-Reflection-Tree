@@ -66,4 +66,5 @@ A well-designed tree gives the same quality every time because a human encoded t
 
 ---
 
-*AI tools used: Claude (Anthropic). Approximate share of task: scaffolding, question drafting, code generation — roughly 60%. All psychological grounding, design trade-off decisions, and reflections reviewed and revised by the candidate.*
+AI tools used: Claude (Anthropic). Approximate share of task: ~70%. 
+Reviewed, tested, and personalised all outputs myself.
