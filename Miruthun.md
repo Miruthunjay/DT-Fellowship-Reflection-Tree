@@ -1,7 +1,7 @@
 # Write-Up: Design Rationale — Daily Reflection Tree
 
-**Candidate:** [Your Name]
-**Date:** April 2026
+**Candidate:** [Miruthunjay]
+**Date:*23* April 2026
 
 ---
 
